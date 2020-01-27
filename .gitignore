@@ -1,4 +1,5 @@
 Documentation
+build*
 *.swp
 Makefile
 CMakeCache.txt
